@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666;
+}
+.App {
+    text-align: center;
+    width: 800px;
+    margin: 50px auto;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.2);
+    border: 2px solid #332929;
+}
